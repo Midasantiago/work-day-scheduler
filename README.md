@@ -6,6 +6,6 @@ A work day scheduler for users who need to keep track of specific events through
 
 ## ScreenShot
 
-![Full Web Page View](assets/images/Assessment-Screenshot.png)
+![Full Web Page View](Assets/images/page-screenshot.png)
 
 ## Link to Page
