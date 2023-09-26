@@ -9,3 +9,5 @@ A work day scheduler for users who need to keep track of specific events through
 ![Full Web Page View](Assets/images/page-screenshot.png)
 
 ## Link to Page
+
+https://midasantiago.github.io/work-day-scheduler/
